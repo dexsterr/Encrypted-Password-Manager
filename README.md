@@ -94,18 +94,6 @@ Prosty i bezpieczny menedżer haseł w Pythonie z pełnym szyfrowaniem bazy dany
 - Biblioteka `cryptography`
 - Tkinter (standardowo w Pythonie)
 
-## Instalacja
-
-```bash
-pip install cryptography
-```
-
-## Uruchomienie
-
-```bash
-python password_manager.py
-```
-
 ## Zalecenia bezpieczeństwa
 
 - Nie udostępniaj pliku `secure_key.enc` ani bazy danych osobom trzecim.
