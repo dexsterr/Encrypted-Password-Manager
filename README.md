@@ -42,18 +42,6 @@ A simple and secure password manager in Python with full database encryption.
 - `cryptography` library
 - Tkinter (included with Python)
 
-## Installation
-
-```bash
-pip install cryptography
-```
-
-## Running
-
-```bash
-python password_manager.py
-```
-
 ## Security recommendations
 
 - Never share your `secure_key.enc` or database files.
