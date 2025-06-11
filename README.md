@@ -2,7 +2,7 @@
 Secure password manager with AES encryption, master password protection, and secure password generation.
 
 
-# Encrypted Password Manager
+# Encrypted Password Manager (EN)
 
 A simple and secure password manager in Python with full database encryption.
 
