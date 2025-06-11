@@ -66,7 +66,7 @@ python password_manager.py
 **This project is for portfolio purposes and demonstrates practical user data security.**
 
 
-# Encrypted Password Manager
+# Encrypted Password Manager (PL)
 
 Prosty i bezpieczny menedżer haseł w Pythonie z pełnym szyfrowaniem bazy danych.
 
